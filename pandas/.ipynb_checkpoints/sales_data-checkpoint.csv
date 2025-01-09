@@ -1,0 +1,7 @@
+OrderID,Customer,Amount,Status,Category
+101,Ajay,250,Completed,Medium
+102,Kiran,300,Completed,Medium
+103,Suresh,150,Completed,Low
+104,Ravi,400,Completed,Medium
+105,Kishore,450,Completed,High
+106,Amar,350,Completed,Medium
